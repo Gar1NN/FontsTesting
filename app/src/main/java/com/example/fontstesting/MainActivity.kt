@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         scalesList.add(CardViewClass("Подзаголовок 1 \nПодзаголовок 1", "Roboto", "Regular", "Sentence", 16, 20, 0.15))
         scalesList.add(CardViewClass("Подзаголовок 2 \nПодзаголовок 2", "Roboto", "Medium", "Sentence", 14, 24, 0.1))
         scalesList.add(CardViewClass("Тело 1 \nТело 1", "Roboto", "Regular", "Sentence", 16, 20, 0.44))
-        scalesList.add(CardViewClass("Тело 1 медиум \n Тело 1 медиум", "Roboto", "Medium", "Sentence", 16, 20, 0.44))
+        scalesList.add(CardViewClass("Тело 1 медиум \nТело 1 медиум", "Roboto", "Medium", "Sentence", 16, 20, 0.44))
         scalesList.add(CardViewClass("Тело 2 \nТело 2", "Roboto", "Regular", "Sentence", 14, 20, 0.25))
         scalesList.add(CardViewClass("Тело 2 медиум \nТело 2 медиум", "Roboto", "Medium", "Sentence", 14, 20, 0.25))
         scalesList.add(CardViewClass("Кнопка \nКнопка", "Roboto", "Medium", "UPPER", 16,20, 1.35))
